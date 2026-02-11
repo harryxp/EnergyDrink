@@ -1,8 +1,8 @@
-MouseJiggler makes your mouse cursor move a bit once in a while, keeping your computer from sleeping.
+EnergyDrink keeps your computer from sleeping.
 
 ```
-git clone https://github.com/harryxp/MouseJiggler.git
-cd MouseJiggler/
+git clone https://github.com/harryxp/EnergyDrink.git
+cd EnergyDrink/
 uv sync # only needed for the first time
-uv run python mouse_jiggler.py
+uv run python energy_drink.py
 ```

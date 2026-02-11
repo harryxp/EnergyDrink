@@ -1,5 +1,5 @@
 [project]
-name = "mousejiggler"
+name = "energydrink"
 version = "0.1.0"
 description = ""
 authors = [{name = "Harry Pan", email = "pan.xingzhi@gmail.com"}]
@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mouse-jiggler = "mouse_jiggler:main"
+energy-drink = "energy_drink:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["."]
